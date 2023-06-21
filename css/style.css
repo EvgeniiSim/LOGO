@@ -740,7 +740,7 @@ body._lock {
   display: none;
 @media (min-width: 993px) {
   .catalog__submenu {
-     display:block;
+    display:block;
     background-color: #ffffff;
     position: absolute;
     z-index: 15;
