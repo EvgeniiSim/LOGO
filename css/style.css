@@ -1072,6 +1072,7 @@ body._lock {
     cursor: pointer;
   }
   .search-select__input {
+    appearance: none;
     position: absolute;
     top: 0;
     left: 0;
