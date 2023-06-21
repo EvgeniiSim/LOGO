@@ -738,9 +738,9 @@ body._lock {
 }
 .catalog__submenu {
   display: none;
-}
 @media (min-width: 993px) {
   .catalog__submenu {
+     display:block;
     background-color: #ffffff;
     position: absolute;
     z-index: 15;
